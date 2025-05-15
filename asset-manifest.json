@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kendrick-quiz/static/css/main.e6c13ad2.css",
-    "main.js": "/kendrick-quiz/static/js/main.795b88c5.js",
+    "main.css": "/kendrick-quiz/static/css/main.5906850d.css",
+    "main.js": "/kendrick-quiz/static/js/main.9e1cfd81.js",
     "index.html": "/kendrick-quiz/index.html",
-    "main.e6c13ad2.css.map": "/kendrick-quiz/static/css/main.e6c13ad2.css.map",
-    "main.795b88c5.js.map": "/kendrick-quiz/static/js/main.795b88c5.js.map"
+    "main.5906850d.css.map": "/kendrick-quiz/static/css/main.5906850d.css.map",
+    "main.9e1cfd81.js.map": "/kendrick-quiz/static/js/main.9e1cfd81.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.795b88c5.js"
+    "static/css/main.5906850d.css",
+    "static/js/main.9e1cfd81.js"
   ]
 }
